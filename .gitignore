@@ -1,0 +1,16 @@
+# Java build output
+bin/
+*.class
+
+# Generated Javadoc
+html/
+
+# Local application data
+shelfList.ser
+
+# IDE and OS files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+/.vscode
